@@ -13,7 +13,7 @@ If there are any omissions or suggestions, you're warmly welcome to reach out to
 
 **Keywords: Dataset, Autonomous driving, Impact score, Annotation, Data analysis**
 <p align="center">
-<img src="figures/Table III.png" width="330" height="330"/>
+<img src="figRUes/Table III.png" width="330" height="330"/>
 </p>
 
 ## 🤝 &nbsp; Citation
