@@ -29,3 +29,28 @@ Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotatio
       primaryClass={cs.CV}
 }
 ```
+
+## Dataset tables
+<p align="center">
+<img src="figures/Table_II.png"/>
+</p>
+
+<p align="center">
+<img src="figures/Table_III.png"/>
+</p>
+
+<p align="center">
+<img src="figures/Table_IV.png"/>
+</p>
+
+<p align="center">
+<img src="figures/Table_V.png"/>
+</p>
+
+<p align="center">
+<img src="figures/Table_VI.png"/>
+</p>
+
+<p align="center">
+<img src="figures/Table_VIII.png"/>
+</p>
