@@ -57,4 +57,4 @@ Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotatio
 
 ## License
 
-This repository is released under the [MIT license](https://github.com/MingyuLiu1/autonomous_driving_datasets/main/LICENSE).
+This repository is released under the [MIT license](https://github.com/MingyuLiu1/autonomous_driving_datasets/LICENSE).
