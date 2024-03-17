@@ -9,7 +9,7 @@
 
 This repository collects research papers on __A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook__. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
 
-If there are any omissions or suggestions, you're warmly welcome to reach out to mingyu.liu@tum.de). 
+If there are any questions or suggestions, please feel free to reach out to mingyu.liu@tum.de). 
 
 **Keywords: Dataset, Autonomous driving, Impact score, Annotation, Data analysis**
 <p align="center">
