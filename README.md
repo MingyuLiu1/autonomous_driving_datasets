@@ -7,7 +7,7 @@
 <a href="https://github.com/MingyuLiu1/autonomous_driving_datasets/blob/main/LICENSE"><img src="https://img.shields.io/github/license/MingyuLiu1/autonomous_driving_datasets" alt="License Badge"/></a>
 </div>
 
-This repository collects research papers on __A Survey on Autonomous Driving Datasets: Statistics, Annotation Quality, and a Future Outlook__. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
+This repository stores datasets mentioned in the paper __A Survey on Autonomous Driving Datasets: Statistics, Annotation Quality, and a Future Outlook__, and also provides related codes. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
 
 If there are any questions or suggestions, please feel free to reach out to mingyu.liu@tum.de). 
 
@@ -50,6 +50,9 @@ Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotatio
 
 ### Dataset tables in supplementary
 The additional datasets are collected in the [supplementary material](https://github.com/MingyuLiu1/autonomous_driving_datasets/blob/main/Supplementary.pdf).
+
+## Statistics
+We provide [codes](https://github.com/MingyuLiu1/autonomous_driving_datasets/tree/main/data_statistics) that we used to conduct statistics in our paper. You can download the neccessary .csv files by Google Driver.
 
 ## License
 
