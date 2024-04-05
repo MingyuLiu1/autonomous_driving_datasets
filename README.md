@@ -1,4 +1,4 @@
-# Autonomous Driving Datasets
+# A Survey on Autonomous Driving Datasets: Statistics, Annotation Quality, and a Future Outlook
 <div align="center">
 <a href="https://arxiv.org/abs/2401.01454"><img src="https://img.shields.io/badge/arXiv-2310.14414-b31b1b.svg" alt="arXiv Badge"/></a>
 <a href="https://github.com/MingyuLiu1/autonomous_driving_datasets/stargazers"><img src="https://img.shields.io/github/stars/MingyuLiu1/autonomous_driving_datasets" alt="Stars Badge"/></a>
@@ -7,7 +7,7 @@
 <a href="https://github.com/MingyuLiu1/autonomous_driving_datasets/blob/main/LICENSE"><img src="https://img.shields.io/github/license/MingyuLiu1/autonomous_driving_datasets" alt="License Badge"/></a>
 </div>
 
-This repository collects research papers on __A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook__. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
+This repository collects research papers on __A Survey on Autonomous Driving Datasets: Statistics, Annotation Quality, and a Future Outlook__. The repo maintained by [TUM-AIR](https://www.ce.cit.tum.de/air/home/) will be continuously updated to track the latest work in the community. 
 
 If there are any questions or suggestions, please feel free to reach out to mingyu.liu@tum.de). 
 
