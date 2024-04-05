@@ -54,11 +54,13 @@ The additional datasets are collected in the [supplementary material](https://gi
 ## Statistics
 We provide [codes](https://github.com/MingyuLiu1/autonomous_driving_datasets/tree/main/data_statistics) that we used to conduct statistics in our paper. You can download the neccessary .csv files by Google Driver.
 <p>
-  <img src="figures/bev_dist.png" width="345px">
-  <img src="figures/fig14_frame.png" width="306px">
+  <img src="figures/bev_dist.png" width="300px">
+  <img src="figures/world_dist.png" width="300px">
+</p>
+<p>
+  <img src="figures/fig14_frame.png" width="300px">
   <img src="figures/fig15_distance.png" width="300px">
 </p>
-
 ## License
 
 This repository is released under the [MIT license](https://github.com/MingyuLiu1/autonomous_driving_datasets/LICENSE).
