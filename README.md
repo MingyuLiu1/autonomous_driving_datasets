@@ -16,6 +16,10 @@ If there are any questions or suggestions, please feel free to reach out to ming
 <img src="figures/figure9_ad_task_overview.png"/>
 </p>
 
+<p align="center">
+<img src="figures/chronological_overview.png"/>
+</p>p
+
 ## 🤝 &nbsp; Citation
 Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/pdf/2401.01454.pdf) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
 
