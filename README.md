@@ -54,7 +54,7 @@ The additional datasets are collected in the [supplementary material](https://gi
 ## Statistics
 We provide [codes](https://github.com/MingyuLiu1/autonomous_driving_datasets/tree/main/data_statistics) that we used to conduct statistics in our paper. You can download the neccessary .csv files by Google Driver.
 <p align="center">
-<img src="figures/bev_dist.png">
+<img src="figures/bev_dist.png" width='100px'>
 </p>
 
 ## License
