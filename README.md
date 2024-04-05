@@ -18,7 +18,7 @@ If there are any questions or suggestions, please feel free to reach out to ming
 
 <p align="center">
 <img src="figures/chronological_overview.png"/>
-</p>p
+</p>
 
 ## 🤝 &nbsp; Citation
 Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/pdf/2401.01454.pdf) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
@@ -35,17 +35,21 @@ Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotatio
 ```
 
 ## Dataset tables
+### Dataset tables in main paper
 <p align="center">
-<img src="figures/Table_II.png"/>
+<img src="figures/perception_datasets.png"/>
 </p>
 
 <p align="center">
-<img src="figures/Table_III.png"/>
+<img src="figures/prediction_planning_control_datasets.png"/>
 </p>
 
 <p align="center">
-<img src="figures/Table_VIII.png"/>
+<img src="figures/vlm_ad_datasets.png"/>
 </p>
+
+### Dataset tables in supplementary
+The additional datasets are collected in the [supplementary material](https://github.com/MingyuLiu1/autonomous_driving_datasets/blob/main/Supplementary.pdf).
 
 ## License
 
