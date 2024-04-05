@@ -54,12 +54,12 @@ The additional datasets are collected in the [supplementary material](https://gi
 ## Statistics
 We provide [codes](https://github.com/MingyuLiu1/autonomous_driving_datasets/tree/main/data_statistics) that we used to conduct statistics in our paper. You can download the neccessary .csv files by Google Driver.
 <p>
-  <img src="figures/bev_dist.png" width="450px">
-  <img src="figures/world_dist.png" width="480px">
+  <img src="figures/bev_dist.png" width="400px">
+  <img src="figures/world_dist.png" width="420px">
 </p>
 <p>
-  <img src="figures/fig14_frame.png" width="455px">
-  <img src="figures/fig15_distance.png" width="450px">
+  <img src="figures/fig14_frame.png" width="400px">
+  <img src="figures/fig15_distance.png" width="400px">
 </p>
 ## License
 
