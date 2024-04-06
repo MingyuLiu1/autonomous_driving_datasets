@@ -52,7 +52,7 @@ Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotatio
 The additional datasets are collected in the [supplementary material](https://github.com/MingyuLiu1/autonomous_driving_datasets/blob/main/Supplementary.pdf).
 
 ## Statistics
-We provide [codes](https://github.com/MingyuLiu1/autonomous_driving_datasets/tree/main/data_statistics) that we used to conduct statistics in our paper. You can download the neccessary .csv files by Google Driver.
+We provide [codes](https://github.com/MingyuLiu1/autonomous_driving_datasets/tree/main/data_statistics) that we used to conduct statistics in our paper. You can download the neccessary .csv files by [Google Driver](https://drive.google.com/drive/folders/17LL2FEnyIYi3qJsuObDmRqB8b8yyioyk?usp=sharing).
 <p>
   <img src="figures/bev_dist.png" width="380px">
   <img src="figures/world_dist.png" width="410px">
