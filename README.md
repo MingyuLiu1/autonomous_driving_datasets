@@ -24,13 +24,12 @@ If there are any questions or suggestions, please feel free to reach out to ming
 Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/pdf/2401.01454.pdf) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
 
 ```BibTeX
-@misc{liu2024survey,
-      title={A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook}, 
-      author={Mingyu Liu and Ekim Yurtsever and Xingcheng Zhou and Jonathan Fossaert and Yuning Cui and Bare Luka Zagar and Alois C. Knoll},
-      year={2024},
-      eprint={2401.01454},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{liu2024survey,
+  title={A Survey on Autonomous Driving Datasets: Statistics, Annotation Quality, and a Future Outlook},
+  author={Liu, Mingyu and Yurtsever, Ekim and Fossaert, Jonathan and Zhou, Xingcheng and Zimmer, Walter and Cui, Yuning and Zagar, Bare Luka and Knoll, Alois C},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
