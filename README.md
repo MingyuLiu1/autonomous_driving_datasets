@@ -13,24 +13,30 @@ If there are any questions or suggestions, please feel free to reach out to ming
 
 **Keywords: Dataset, Autonomous driving, Impact score, Annotation, Data analysis**
 <p align="center">
-<img src="figures/figure9_ad_task_overview.png"/>
+<img src="figures/comparison.png"/>
 </p>
 
 <p align="center">
-<img src="figures/chronological_overview.png"/>
+<img src="figures/figure9_ad_task_overview.png"/>
 </p>
 
+## ✅ News
+- [29.April.2024] Our paper has been accepted by [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/document/10509812).
+
 ## 🤝 &nbsp; Citation
-Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://arxiv.org/pdf/2401.01454.pdf) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
+Please visit [A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook](https://ieeexplore.ieee.org/document/10509812) for more details and comprehensive information. If you find our paper and repo helpful, please consider citing it as follows:
 
 ```BibTeX
-@article{liu2024survey,
-  title={A Survey on Autonomous Driving Datasets: Statistics, Annotation Quality, and a Future Outlook},
-  author={Liu, Mingyu and Yurtsever, Ekim and Fossaert, Jonathan and Zhou, Xingcheng and Zimmer, Walter and Cui, Yuning and Zagar, Bare Luka and Knoll, Alois C},
-  journal={IEEE Transactions on Intelligent Vehicles},
+@ARTICLE{10509812,
+  author={Liu, Mingyu and Yurtsever, Ekim and Fossaert, Jonathan and Zhou, Xingcheng and Zimmer, Walter and Cui, Yuning and Zagar, Bare Luka and Knoll, Alois C.},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={A Survey on Autonomous Driving Datasets: Statistics, Annotation Quality, and a Future Outlook}, 
   year={2024},
-  publisher={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-29},
+  keywords={Autonomous vehicles;Surveys;Annotations;Task analysis;Measurement;Sensors;Robot sensing systems;Dataset;impact score;data analysis;annotation quality;autonomous driving},
+  doi={10.1109/TIV.2024.3394735}}
 ```
 
 ## Dataset tables
